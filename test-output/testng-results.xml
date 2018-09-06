@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-15T23:14:22Z" name="TestNG" finished-at="2018-08-15T23:30:35Z" duration-ms="973432">
+    <groups>
+    </groups>
+    <test started-at="2018-08-15T23:14:22Z" name="Parallel Test" finished-at="2018-08-15T23:30:35Z" duration-ms="973432">
+      <class name="captureScreenshot.Chrome_FbScreenshot">
+        <test-method signature="CaptureScreenshot()[pri:0, instance:captureScreenshot.Chrome_FbScreenshot@57d7f8ca]" started-at="2018-08-15T23:14:22Z" name="CaptureScreenshot" finished-at="2018-08-15T23:18:17Z" duration-ms="235204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+      </class> <!-- captureScreenshot.Chrome_FbScreenshot -->
+      <class name="captureScreenshot.Edge_FbScreenshot">
+        <test-method signature="CaptureScreenshot()[pri:0, instance:captureScreenshot.Edge_FbScreenshot@fba92d3]" started-at="2018-08-15T23:14:22Z" name="CaptureScreenshot" finished-at="2018-08-15T23:17:06Z" duration-ms="164686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+      </class> <!-- captureScreenshot.Edge_FbScreenshot -->
+      <class name="captureScreenshot.IE_FbScreenshot">
+        <test-method signature="CaptureScreenshot()[pri:0, instance:captureScreenshot.IE_FbScreenshot@fa49800]" started-at="2018-08-15T23:14:22Z" name="CaptureScreenshot" finished-at="2018-08-15T23:30:35Z" duration-ms="973409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+      </class> <!-- captureScreenshot.IE_FbScreenshot -->
+      <class name="captureScreenshot.Firefox_FbScreenshot">
+        <test-method signature="CaptureScreenshot()[pri:0, instance:captureScreenshot.Firefox_FbScreenshot@662b4c69]" started-at="2018-08-15T23:14:22Z" name="CaptureScreenshot" finished-at="2018-08-15T23:19:38Z" duration-ms="316927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+      </class> <!-- captureScreenshot.Firefox_FbScreenshot -->
+      <class name="captureScreenshot.Opera_FbScreenshot">
+        <test-method signature="CaptureScreenshot()[pri:0, instance:captureScreenshot.Opera_FbScreenshot@71238fc2]" started-at="2018-08-15T23:14:22Z" name="CaptureScreenshot" finished-at="2018-08-15T23:18:30Z" duration-ms="248860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureScreenshot -->
+      </class> <!-- captureScreenshot.Opera_FbScreenshot -->
+    </test> <!-- Parallel Test -->
+  </suite> <!-- TestNG -->
+</testng-results>

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG" parallel="classes">
+	<test name="Parallel Test">
+		<classes>
+			<class name="captureScreenshot.Chrome_FbScreenshot"/>
+			<class name="captureScreenshot.Edge_FbScreenshot"/>
+			<class name="captureScreenshot.Firefox_FbScreenshot"/>
+			<class name="captureScreenshot.IE_FbScreenshot"/>
+			<class name="captureScreenshot.Opera_FbScreenshot"/>
+			
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [TestNG]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="Parallel Test(failed)">
+    <classes>
+      <class name="captureScreenshot.Chrome_FbScreenshot">
+        <methods>
+          <include name="CaptureScreenshot"/>
+        </methods>
+      </class> <!-- captureScreenshot.Chrome_FbScreenshot -->
+    </classes>
+  </test> <!-- Parallel Test(failed) -->
+</suite> <!-- Failed suite [TestNG] -->
